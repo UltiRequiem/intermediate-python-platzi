@@ -16,10 +16,11 @@ def main():
     }
 
     for key, value in super_dict.items():
-        print(key,"-",value)
+        print(key, "-", value)
 
     for item in super_list:
         print(item["first_name"], item["last_name"])
+
 
 if __name__ == '__main__':
     main()
