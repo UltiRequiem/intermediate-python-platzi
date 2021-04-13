@@ -2,12 +2,12 @@
 Este curso es la continuación del [Curso Basico de Python](https://platzi.com/clases/python), al cual tambien le hice un [repositorio](https://github.com/UltiRequiem/Curso-Basico-de-Python-Platzi), donde tocamos temas mas avanzados. 
 
 ## Indice de Notas:
-- [Entornos Virtuales]()
-- [Instalando Dependencias]()
-- [Comprensiones]()
-- [Funciones Anónimas]()
-- [Funciones de Orden Superior]()
-- [Manejo de Errores]()
+- [Entornos Virtuales](#qué-es-un-entorno-virtual)
+- [Instalando Dependencias](#instalando-dependencias)
+- [Comprensiones](#comprensiones)
+- [Funciones Anónimas](#funciones-anónimas)
+- [Funciones de Orden Superior](#funciones-de-orden-superior)
+- [Manejo de Errores](#manejo-de-errores)
 
 ### ¿Qué es un entorno virtual?
 Una Instancia de Python aislada, en el que puedes controlar las versiones y módulos instalados sin afectar ni al sistema u otro poryecto que use las mismas dependencias en otra versión.
