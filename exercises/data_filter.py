@@ -91,6 +91,5 @@ def run():
     for worker in old_people:
         print(worker)
 
-
 if __name__ == '__main__':
     run()
